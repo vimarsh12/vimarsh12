@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting my masters degree.
-- 🌱 I’m currently learning Cyber security and System programming.
-- 👯 I’m looking to collaborate on cool projects.
-- 🤔 I’m looking for help with enhancing my skills.
-- 💬 Ask me about stock market.
-- 📫 How to reach me: gargv1@udayton.edu
+- 🔭 I graduated with my masters degree in May of 2025 .
+- 🌱 I’m seeking opportunities Cyber security and System adminstration.
+- 👯 I’m love to collaborate on cool projects.
+- 🤔 I’m looking to showcase my skills in programing and threat analysis.
+- 💬 Ask me about cybersecurity.
+- 📫 How to reach me: fazervimarsh@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I never downloaded tiktok.
+- ⚡ Fun fact: I am trilingual
